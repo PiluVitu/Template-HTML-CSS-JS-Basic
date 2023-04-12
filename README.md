@@ -19,4 +19,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Feito com ♥ by [PiluVitu](https://piluvitu.dev)
+<p align="center">
+Feito com ♥ by <a href="https://piluvitu.dev" >PiluVitu</a>
+</p>
